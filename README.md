@@ -7,6 +7,10 @@
 </p>
 
 
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="400">
+
+
 ---
 
 ## 🚀 About Me  
