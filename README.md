@@ -2,14 +2,7 @@
 
 ### Full Stack Developer | Clean Code • Professional Design • Scalable Solutions  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="400" />
-</p>
-
-
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="400">
-
+![Professional Coder Coding](https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif)
 
 ---
 
