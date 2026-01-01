@@ -7,26 +7,6 @@
   <p>Professional coder at work</p>
 </div>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-  <!-- Left side: About me -->
-  <div style="flex: 1;">
-    ## About Me
-    Hello! I am a professional coder with a passion for building web applications and solving complex problems.  
-    I enjoy learning new technologies and contributing to open-source projects.  
-    My focus is on writing clean, efficient, and maintainable code that makes a difference.
-  </div>
-
-  <!-- Right side: Image -->
-  <div style="flex: 1; text-align: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Professional Coder Coding" width="350">
-  </div>
-
-</div>
-
-
-
-
 ---
 
 ## 🚀 About Me  
