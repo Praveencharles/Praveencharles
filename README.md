@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | Clean Code • Professional Design • Scalable Solutions  
 
-![Professional Coder Coding](https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif)
+![Professional Coder Coding](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
 ---
 
