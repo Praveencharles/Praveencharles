@@ -36,6 +36,11 @@ I enjoy turning ideas into real-world web applications using modern frontend and
   <img src="https://img.icons8.com/color/48/django.png" alt="Django"/>
   <img src="https://img.icons8.com/ios-filled/50/api.png" alt="REST Framework"/>
   <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
+
 </p>
 </p>
 
