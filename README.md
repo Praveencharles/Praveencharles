@@ -51,21 +51,15 @@ I enjoy turning ideas into real-world web applications using modern frontend and
 
 ---
 
-## 📊 GitHub Stats  
-![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveencharles&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveencharles&layout=compact&theme=dark)
-
----
-
 ## 🌐 Connect With Me  
 <p>
-  <a href="https://instagram.com/your_instagram" target="_blank">
+  <a href="https://instagram.com/j.praveen_charles" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
   </a>
   <a href="https://linkedin.com/in/your_linkedin" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://jpraveencharles.netlify.app" target="_blank">
     <img src="https://img.icons8.com/color/48/domain.png"/>
   </a>
 </p>
@@ -73,4 +67,7 @@ I enjoy turning ideas into real-world web applications using modern frontend and
 ---
 
 ⭐ *Always learning, always building, always improving.*
+
+
+
 
