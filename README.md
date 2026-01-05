@@ -57,7 +57,7 @@ I enjoy turning ideas into real-world web applications using modern frontend and
 
 ---
 
-⭐ *Always learning, always building, always improving.*  
+⭐ *learn, build, improve.*  
 
 
 
