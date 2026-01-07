@@ -19,8 +19,7 @@ Engineering student @Jeppiaar engineering college
 I enjoy turning ideas into real-world web applications using modern frontend and backend technologies.
 </h4>
 
-
-### 🖥 Tech Stack  
+ 
 
 ### ✅ I code in 
 <p>
