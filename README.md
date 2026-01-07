@@ -8,7 +8,7 @@ Engineering student @Jeppiaar engineering college
 
 - ⁉ Here's my [portfolio](https://jpraveencharles.netlify.app) 
 
-- 💯 I’m currently learning Full stack devlopment
+- 💯 I’m currently enhancing my Full stack devlopment
 
 ### 🚀 About Me  
 
