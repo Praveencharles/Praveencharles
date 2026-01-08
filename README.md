@@ -36,7 +36,6 @@ I enjoy turning ideas into real-world web applications using modern frontend and
   <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
   <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
   <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
-
 </p>
 </p>
 
