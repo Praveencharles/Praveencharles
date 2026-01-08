@@ -13,7 +13,6 @@ Engineering student @Jeppiaar engineering college
 ### 🚀 About Me  
 
 
-
 <h4>
   I am a passionate full stack developer who focuses on writing clean, maintainable code and building professional, user-friendly designs.  
 I enjoy turning ideas into real-world web applications using modern frontend and backend technologies.
