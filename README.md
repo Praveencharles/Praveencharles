@@ -20,7 +20,7 @@ I enjoy turning ideas into real-world web applications using modern frontend and
 
  
 
-### ✅ I code in 
+### ✅ I can code in 
 <p>
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML"/>
