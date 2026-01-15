@@ -11,7 +11,7 @@ Engineering student @Jeppiaar engineering college
 
 - 💯 I’m currently enhancing my Full stack devlopment and DSA in python
 
-### 🚀 About Me  
+### 🚀 About Me   
 
 
 <h4>
