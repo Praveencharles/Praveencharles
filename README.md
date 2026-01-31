@@ -1,4 +1,4 @@
-    # Hi 👋 I'm J. Praveen Charles   
+# Hi 👋 I'm J. Praveen Charles   
 
 ### Full Stack Developer | Clean Code • Professional Design • Scalable Solutions  
  
