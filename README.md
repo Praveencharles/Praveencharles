@@ -53,6 +53,61 @@ I enjoy turning ideas into real-world web applications using modern frontend and
   </a>
 </p>
 
----
+--- 
 
-⭐ *learn, Build, Improve.*  
+#### 🌐 Frontend work : React + Tailwind  
+<p align="left" style="display:flex; align-items:center; gap:15px;">
+  
+  <a href="https://instagram.com/j.praveen_charles" target="_blank" title="Instagram">
+    <img src="https://img.icons8.com/color/48/react-native.png" alt="React JS"/>
+  </a>
+  
+  <img src="https://img.icons8.com/ios-filled/40/ffffff/plus-math.png"/>
+  
+  <a href="https://yourwebsite.com" target="_blank" title="Website">
+    <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS"/>
+  </a>
+
+</p>
+
+#### 🌐 Backend work : Django + REST  
+<p align="left" style="display:flex; align-items:center; gap:15px;">
+  
+  <a href="https://instagram.com/j.praveen_charles" target="_blank" title="Instagram">
+    <img src="https://img.icons8.com/color/48/django.png" alt="Django"/>
+  </a>
+  
+  <img src="https://img.icons8.com/ios-filled/40/ffffff/plus-math.png"/>
+  
+  <a href="https://yourwebsite.com" target="_blank" title="Website">
+     <img src="https://img.icons8.com/ios-filled/50/api.png" alt="REST Framework"/>
+  </a>
+
+</p>
+
+#### 🌐 Full Stack : React + Django + POstgresql  
+<p align="left" style="display:flex; align-items:center; gap:15px;">
+ 
+  <a href="https://instagram.com/j.praveen_charles" target="_blank" title="Instagram">
+    <img src="https://img.icons8.com/color/48/react-native.png" alt="React JS"/>
+  </a>
+  
+  <img src="https://img.icons8.com/ios-filled/40/ffffff/plus-math.png"/>
+  
+  <a href="https://instagram.com/j.praveen_charles" target="_blank" title="Instagram">
+    <img src="https://img.icons8.com/color/48/django.png" alt="Django"/>
+  </a>
+  
+  <img src="https://img.icons8.com/ios-filled/40/ffffff/plus-math.png"/>
+  
+  <a href="https://yourwebsite.com" target="_blank" title="Website">
+     <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/>
+  </a>
+
+</p>
+
+
+----
+
+
+⭐ *learn, Build, Improve.* 
