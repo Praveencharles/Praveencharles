@@ -1,6 +1,6 @@
 # Hi 👋 I'm J. Praveen Charles    
 
-### Full Stack Developer | Clean Code • Professional Design • Scalable Solutions  
+### Full Stack Developer | Clean Code • Professional Design • Scalable Solutions   
  
 Engineering student @Jeppiaar engineering college
 
