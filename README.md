@@ -26,7 +26,7 @@ I am a passionate full stack developer who focuses on writing clean, maintainabl
 
 <a href="http://www.github.com/praveencharles"><img src="https://github-readme-streak-stats.herokuapp.com/?user=praveencharles&stroke=64748b&background=27272a&ring=64748b&fire=64748b&currStreakNum=64748b&currStreakLabel=64748b&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-Prof
+Pro
 
 
 
